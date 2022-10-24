@@ -1,0 +1,87 @@
+body{
+    background-color: rgb(237, 147, 234);
+}
+.galali{
+width: 400pxpx;
+height: 300px;
+border-radius: 160px;
+}
+header >div{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-around;
+}
+.fle{
+padding-top: 50px;
+}
+main >div{
+text-align: center;
+padding-left: 350px;
+padding-right: 50px;
+}
+footer >div{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+/* ######################## */
+body{
+    background-color: rgb(239, 207, 224);
+}
+header >div{
+    display: flex;
+    text-align: center;
+    /* justify-items: r; */
+    justify-content: space-around;
+    
+}
+.paul{
+    float: right; 
+    padding-left: 45px;
+}
+.imag{
+    width: auto;
+    height: 350px;
+    border-radius: 30px;
+    padding-left: 20px;
+}
+.Ezeta{
+    font-size: 60px;
+}
+.Ezeta{
+    margin: 0px;
+}
+body >main >p{
+    margin: 0px;
+}
+.about-h1{
+    background-color: blueviolet;
+    font-size: 45px;
+}
+main >div >ul{
+    padding-left: 2px;
+}
+main >div >ul >h1{
+    background-color: blueviolet;
+}
+main >div >ul >li{
+    font-size: 30px;
+}
+main >div{
+    padding-left: 70px;
+}
+footer >div{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.SELF{
+    padding-left: 150px;
+    padding-right: 150px;
+    margin-top: 0;
+}
+h1{
+    margin-bottom: 2px;
+}
