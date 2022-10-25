@@ -11,12 +11,9 @@ header >div{
     margin-top: 50px;
     justify-content: space-around;
 }
-.fle{
-padding-top: 50px;
-}
 main >div{
 text-align: center;
-padding-left: 350px;
+padding-left: 150px;
 padding-right: 50px;
 }
 footer >div{
@@ -67,9 +64,6 @@ main >div >ul >h1{
 }
 main >div >ul >li{
     font-size: 30px;
-}
-main >div{
-    padding-left: 70px;
 }
 footer >div{
     display: flex;
